@@ -1,10 +1,5 @@
 server:
-  port: 8070
-spring:
-  application:
-    name: @project.name@
-  #profiles:
-    #active: local
+  port: 8085
 eureka:
   instance:
     hostname: localhost
